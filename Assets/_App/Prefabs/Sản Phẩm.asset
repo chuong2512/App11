@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1de118c01cd375348bc5b06db5d3937a, type: 3}
   m_Name: "S\u1EA3n Ph\u1EA9m"
   m_EditorClassIdentifier: 
+  name: "D\u1EE5ng c\u1EE5 luy\u1EC7n t\u1EADp b\xF3ng r\u1ED5"
+  infor: 
+  folderPath: Assets/App4
   SanPham:
   - ID: 0
     anh: {fileID: 21300000, guid: 24662f3e79becef468e62dc2c5fbda4c, type: 3}
@@ -23,77 +26,77 @@ MonoBehaviour:
     anh: {fileID: 21300000, guid: 3a0538ecc605dfb49a1e53e6bfe45971, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "1.000.000 \u0111"
+    name: "\xC1o thi \u0111\u1EA5u b\xF3ng chuy\u1EC1n m\xE0u tr\u1EAFng"
   - ID: 2
     anh: {fileID: 21300000, guid: 3542701512a123d4184c55f1ccf2b48b, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "380.000 \u0111"
+    name: "\xC1o thi \u0111\u1EA5u b\xF3ng chuy\u1EC1n m\xE0u tr\u1EAFng"
   - ID: 3
     anh: {fileID: 21300000, guid: c4d41f9fdd447f741bd9468dd479590c, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "450.000 \u0111"
+    name: "\xC1o thi \u0111\u1EA5u b\xF3ng chuy\u1EC1n m\xE0u tr\u1EAFng"
   - ID: 4
     anh: {fileID: 21300000, guid: 967929956345ada4db7dc6e841a371f5, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "3.000.000 \u0111"
+    name: "\xC1o thi \u0111\u1EA5u b\xF3ng chuy\u1EC1n m\xE0u tr\u1EAFng"
   - ID: 5
     anh: {fileID: 21300000, guid: 1b085caab8eb91641a4eba606fc252e6, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "570.000 \u0111"
+    name: "B\xF3ng r\u1ED5 ch\u1EA5t l\u01B0\u1EE3ng cao"
   - ID: 6
     anh: {fileID: 21300000, guid: 06336a5f75929f448831129bf7606282, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "990.000 \u0111"
+    name: "B\xF3ng r\u1ED5 ch\u1EA5t l\u01B0\u1EE3ng cao"
   - ID: 7
     anh: {fileID: 21300000, guid: 82529c97c8bf49c459358a317a0be43c, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "12.000.000 \u0111"
+    name: "B\xF3ng r\u1ED5 ch\u1EA5t l\u01B0\u1EE3ng cao"
   - ID: 8
     anh: {fileID: 21300000, guid: 532e78ce406c48c4e888eb7be97320bb, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "830.000 \u0111"
+    name: "B\xF3ng r\u1ED5 ch\u1EA5t l\u01B0\u1EE3ng cao"
   - ID: 9
     anh: {fileID: 21300000, guid: a522b25f757cf8e4f91e6ad6605d6db5, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "540.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 luy\u1EC7n t\u1EADp b\xF3ng r\u1ED5"
   - ID: 10
     anh: {fileID: 21300000, guid: d1d2138733117ed41adbadadce2d88c2, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "730.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 luy\u1EC7n t\u1EADp b\xF3ng r\u1ED5"
   - ID: 11
     anh: {fileID: 21300000, guid: 48882381b46b7c14d811463d666776ab, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "10.000.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 luy\u1EC7n t\u1EADp b\xF3ng r\u1ED5"
   - ID: 12
     anh: {fileID: 21300000, guid: 5ed054a5bfc324f46a177e111d78ef79, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "2.000.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 luy\u1EC7n t\u1EADp b\xF3ng r\u1ED5"
   - ID: 13
     anh: {fileID: 21300000, guid: dc7b6a2b98dd0714bb0f5a05bf09fa34, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "120.000 \u0111"
-    name: "\xC1o B\xF3ng \u0110\xE1 CLB Inter Milan Xanh K\u1EBB Tr\u1EAFng..."
+    gia: "710.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 luy\u1EC7n t\u1EADp b\xF3ng r\u1ED5"
